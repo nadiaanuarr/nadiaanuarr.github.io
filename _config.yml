@@ -1,0 +1,13 @@
+title: Nadia Anuar # your name (or website title) here
+logo: "/images/photo.jpeg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  
+  <p align="left"> <a href="https://www.linkedin.com/in/nadiaanuarr/" target="_blank"> <img src="https://commons.wikimedia.org/wiki/File:LinkedIn_logo_initials.png" alt="LinkedIn" width="50" height="50"/> </a> 
+  <a href="https://github.com/nadiaanuarr/" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" alt="Github" width="50" height="50"/> </a> </a> </p>
+  
+theme: jekyll-theme-minimal
+
